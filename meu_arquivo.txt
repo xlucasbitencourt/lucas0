@@ -1,1 +1,2 @@
 Meu primeiro repositório Git.
+Atualizado em 19/02/2022: Alteração de arquivo por outro computador
