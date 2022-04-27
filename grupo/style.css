@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(grey, lightgrey);
+    color: white;
+}
+
+.container-grupos {
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.grupo {
+    /* border: 1px solid red; */
+    background-color: rgba(0, 0, 0, 0.8);
+    margin: 2px;
+    height: 180px;
+    aspect-ratio: 16/9;
+}
+
+h1 {
+    margin: 0;
+    font-family: monospace;
+}
+
+li {
+    font-family: monospace;
+    font-size: 15px;
+    margin-left: -20px;
+}
+
+#teste {
+    background-color: pink;
+}
